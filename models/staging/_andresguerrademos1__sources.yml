@@ -1,0 +1,14 @@
+version: 2
+sources:
+  
+  - name: andresguerrademos1
+    database: andresguerrademos1
+    schema: raw_data
+    tables:
+      - name: sales
+      - name: products
+      - name: inventory
+      - name: customers
+
+
+      
